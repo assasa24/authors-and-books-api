@@ -40,3 +40,15 @@ http://localhost:8080/swagger-ui.html
    ```bash
    git clone https://github.com/your-username/authors-books-api.git
    cd authors-books-api
+2. **Set up PostgreSQL locally**:
+
+- Install PostgreSQL locally and ensure it's running on port 5432.
+- Create a database named authors_books_db.
+- Update src/main/resources/application.properties with your PostgreSQL username, password, and database name.
+
+3. **Run the application:**
+4. **Access the API:**
+   Open your browser or API client (e.g., Postman) and access endpoints at http://localhost:8080.
+
+
+6. 
