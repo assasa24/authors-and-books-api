@@ -46,6 +46,6 @@ http://localhost:8080/swagger-ui.html
 - Create a database named authors_books_db.
 - Update src/main/resources/application.properties with your PostgreSQL username, password, and database name.
 
-3. **Run the application:**
+3. **Run the application.**
 4. **Access the API:**
    Open your browser or API client (e.g., Postman) and access endpoints at http://localhost:8080.
