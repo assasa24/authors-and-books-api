@@ -49,6 +49,3 @@ http://localhost:8080/swagger-ui.html
 3. **Run the application:**
 4. **Access the API:**
    Open your browser or API client (e.g., Postman) and access endpoints at http://localhost:8080.
-
-
-6. 
